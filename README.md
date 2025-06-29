@@ -2,7 +2,7 @@
 
 A simple Spring Boot application that provides RESTful APIs to manage cricket players and their statistics using H2 in-memory database.
 
-# APIs
+# Endpoints/APIs
 
 ### List all players 
 * GET: ```http://localhost:8080/api/players```
