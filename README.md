@@ -13,7 +13,7 @@ A simple Spring Boot application that provides RESTful APIs to manage cricket pl
 
 ### Add new players
 
-* POST: ```http://localhost:8080/api/players``` → Add new player 
+* POST: ```http://localhost:8080/api/players```
 
 
 # Screenshots
