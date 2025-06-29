@@ -17,4 +17,16 @@ A simple Spring Boot application that provides RESTful APIs to manage cricket pl
 
 
 # Screenshots
+* Get All Players
+![Screenshots imagse](screenshots/1getall.png)
+* DB Status
+![Screenshots imagse](screenshots/2getalldb.png)
+* Filter with player's name
+![Screenshots imagse](screenshots/3filter.png)
+* Add new players
+![Screenshots imagse](screenshots/4update.png)
+* DB Status after adding new player
+![Screenshots imagse](screenshots/5updateddb.png)
+* Get all players
+![Screenshots imagse](screenshots/6updated.png)
 
